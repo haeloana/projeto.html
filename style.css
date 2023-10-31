@@ -1,14 +1,14 @@
 body{
     text-align: center;
     color: white;
-    background-color: rgb(52, 52, 177);
+    background-color: rgb(252, 178, 94);
 }
 
 .titulo {
-    font-family: monospace;
-    color: black;
+    appearance: monospace;
+    color: rgb(255, 255, 255);
 }
 
 .subtitulo {
-    font-family: monospace;
+    outline: monospace;
 }
